@@ -1,7 +1,7 @@
 # azure-resume
 Azure Project - Resume fully hosted by Azure, following [ACG tutorial.](https://www.youtube.com/watch?v=ieYrBWmkfno) 
 
-govindaharris.com
+[govindaharris.com](http://govindaharris.com)
 
 ## First steps
  - Frontend folder contains the website.
